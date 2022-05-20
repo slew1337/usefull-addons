@@ -1,5 +1,5 @@
-# BEST ADDONS IN MY OPINION 202X
-                                               FIRST OF ALL u cant even live without this one
+# BEST ADDONS IN MY OPINION 202X      
+                                     FIRST OF ALL u cant even live without this one
 
 + ### uBlock - [link](https://ublock.org/ "u gay")
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -7,7 +7,7 @@
 + ### Buster: Captcha Solver for Humans / resolve re-captcha - [link](https://github.com/dessant/buster "u gay")
 
 
-                                                                  𝚈♡𝚞𝚃𝚞𝚋𝚎
+                                                    𝚈♡𝚞𝚃𝚞𝚋𝚎
 
 + ### Enhancer for YouTube / auto res picker, block ad, ss, volume boost, better themes like [Discord](https://i.imgur.com/eX7FVvA.png) or i perefer this [one](https://i.imgur.com/mDlG0rh.png "u gay") -  [link](https://www.mrfdev.com/enhancer-for-youtube "u gay")
 
@@ -24,7 +24,7 @@
 + ### VidiQ
 
 
-                                                                      EQ
+                                                          EQ
 
 + ### Ears: Bass Boost, EQ Any Audio! / vid 2 quiet? smth else? feeling ur headset can du better? get best EQ [phonk preset LULW](https://i.imgur.com/S6eogMB.png "u gay") for > [chrome](https://chrome.google.com/webstore/detail/ears-bass-boost-eq-any-au/nfdfiepdkbnoanddpianalelglmfooik "u gay")
 
@@ -35,14 +35,14 @@
 + ### Stylus / re-desing any web page - [link](https://add0n.com/stylus.html "u gay")
 
 
-                                                                     steam
+                                                        steam
 
 + ### CSGO Trader Extension - [link](https://csgotrader.app "u gay")
 + ### CSGOFloat - [link](https://csgofloat.com/ "u gay")
 + ### SIH - [chrome](https://chrome.google.com/webstore/detail/steam-inventory-helper/cmeakgjggjdlcpncigglobpjbkabhmjl "u gay")
 
 
-                                                                      soc
+                                                         soc
 
 + ### VkOpt / dw everything - [link](https://vkopt.net/download/ "u gay")
 
@@ -51,7 +51,7 @@ or
 + ### vk next / [link](https://vknext.net/ "u gay")
 
 
-                                                       RU / UA - access 4 whole world
+                                               RU / UA - access 4 whole world
 
 + ### RU - [link](https://antizapret.prostovpn.org/ "u gay")
 
@@ -65,21 +65,21 @@ or
 
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　[find/buy some proxy or get it [here](https://lolz.guru/forums/566/ "u gay")]
 
-                                                                    TWITCH
+                                                         TWITCH
 
 + ### FrankerFaceZ - [link](https://www.frankerfacez.com/ "u gay")
 
 + ### 7tv - [link](https://7tv.app/ "u gay")
 
 
-                                                             find song 
+                                                        find song 
 
 + ### Song Identifier - [fox](https://addons.mozilla.org/en-US/firefox/addon/song-identifier/ "u gay")
 
 + ### Shazam - [chrome](https://chrome.google.com/webstore/detail/shazam/mmioliijnhnoblpgimnlajmefafdfilb "u gay")
 
 
-                                                                   privacity
+                                                        privacity
 + ### GMAIL  Unlimited Email Tracker by [Snov.io](http://Snov.io) / shows if person opened ur email - [chrome](https://chrome.google.com/webstore/detail/unlimited-email-tracker-b/gojogohjgpelafgaeejgelmplndppifh "u gay")
 
 + ### GMAIL  PixelBlock / PixelBlock anti ^ that blocks people from tracking when you open their emails - [chrome](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem "u gay")
@@ -91,13 +91,13 @@ or
 　　　　　　　　　　　　　　　　　　　　　　　　 *i hope so*
 
 
-                                                                     perfomance
+                                                         perfomance
 
 + ### Reload All Tabs / [Allows you reload all tabs via toolbar button. Very lite addon with minimal CPU and RAM usage.] - [link](https://mybrowseraddon.com/reload-all-tabs.html "u gay") 
 
 + ### OneTab / struggling w smth like [this](https://i.imgur.com/y21sNkH.png "u gay" )? - [link](https://www.one-tab.com/ "u gay")
 
-                                                                       etc
+                                                            etc
 
 + ### Absolute Enable Right Click & Copy / for lazzy doggo like me, dnt fuck with source code just copy what u want w/o restruction - [chrome](https://chrome.google.com/webstore/detail/absolute-enable-right-cli/jdocbkpgdakpekjlhemmfcncgdjeiika "u gay") [fox](https://addons.mozilla.org/ru/firefox/addon/absolute-enable-right-click/ "u gay")
 
