@@ -72,7 +72,7 @@ or
 + ### 7tv - [link](https://7tv.app/ "u gay")
 
 
-                                                        find song 
+                                                     find song 
 
 + ### Song Identifier - [fox](https://addons.mozilla.org/en-US/firefox/addon/song-identifier/ "u gay")
 
@@ -97,7 +97,7 @@ or
 
 + ### OneTab / struggling w smth like [this](https://i.imgur.com/y21sNkH.png "u gay" )? - [link](https://www.one-tab.com/ "u gay")
 
-                                                            etc
+                                                          etc
 
 + ### Absolute Enable Right Click & Copy / for lazzy doggo like me, dnt fuck with source code just copy what u want w/o restruction - [chrome](https://chrome.google.com/webstore/detail/absolute-enable-right-cli/jdocbkpgdakpekjlhemmfcncgdjeiika "u gay") [fox](https://addons.mozilla.org/ru/firefox/addon/absolute-enable-right-click/ "u gay")
 
