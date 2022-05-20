@@ -1,112 +1,184 @@
-# BEST ADDONS IN MY OPINION 202X      
-                                     FIRST OF ALL u cant even live without this one
 
-+ ### uBlock - [link](https://ublock.org/ "u gay")
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+<a id="u_still_gay"></a>
+<h1 align="center">WELCOME TO THE CLUB BUDDY</h1>
 
-+ ### Buster: Captcha Solver for Humans / resolve re-captcha - [link](https://github.com/dessant/buster "u gay")
+                                     _                     _   _____   _____   _____ 
+                               ___  | |   ___  __      __ / | |___ /  |___ /  |___  |
+                              / __| | |  / _ \ \ \ /\ / / | |   |_ \    |_ \     / / 
+                              \__ \ | | |  __/  \ V  V /  | |  ___) |  ___) |   / /  
+                              |___/ |_|  \___|   \_/\_/   |_| |____/  |____/   /_/   
 
 
-                                                    𝚈♡𝚞𝚃𝚞𝚋𝚎
 
-+ ### Enhancer for YouTube / auto res picker, block ad, ss, volume boost, better themes like [Discord](https://i.imgur.com/eX7FVvA.png) or i perefer this [one](https://i.imgur.com/mDlG0rh.png "u gay") -  [link](https://www.mrfdev.com/enhancer-for-youtube "u gay")
+<h2 align="center">BEST ADDONS IN MY OPINION 202X</h2>
+<h3 align="center">FIRST OF ALL u cant even live without this one</h3> 
 
-+ ### h264ify / force yt to stream H.264 instead of VP8/VP9 important 4 low pc (Enhancer have built-in feature like this) - [link](https://github.com/erkserkserks/h264ify "u gay")
++ ### [uBlock][uB]
+  
++ ### [Buster: Captcha Solver for Humans / `resolve re-captcha`][capt]
 
-+ ### Return YouTube Dislike  / fags thinks they removed dislike? hell NO! - [link](https://github.com/Anarios/return-youtube-dislike "u gay")
+<h2 align="center">𝚈♡𝚞𝚃𝚞𝚋𝚎</h2>
 
-+ ### SponsorBlock / auto skip intro, AD, promo etc - [link](https://sponsor.ajay.app/ "u gay")
 
-+ ### Skip Silence / now u can watch indian c++ tuts faster ![alt text](https://i.imgur.com/oye2M8p.png) [preview](https://youtu.be/os9ybhmoGcE "u gay") - [link](https://github.com/vantezzen/skip-silence "u gay")
++ ### [Enhancer for YouTube][yte]   `auto res picker, block ad, screenshot, volume boost, better themes like` [Discord](https://i.imgur.com/eX7FVvA.png "u gay") `or i perefer this`  [one](https://i.imgur.com/mDlG0rh.png "u gay") 
+
++ ### [h264ify / `force yt to stream H.264 instead of VP8/VP9 important 4 low pc (Enhancer have built-in feature like this)`][h264]
+
++ ### [Return YouTube Dislike `fags thinks they removed dislike? hell NO!`][dis]
+
++ ### [SponsorBlock / `auto skip intro, AD, promo etc`][sb]
+
++ ### [Skip Silence / `now u can watch indian c++ tuts faster`][silince] ![alt text](https://i.imgur.com/oye2M8p.png) [preview](https://youtu.be/os9ybhmoGcE "u gay")
 
 + ### Tubebuddy
 
 + ### VidiQ
 
 
-                                                       EQ
-
-+ ### Ears: Bass Boost, EQ Any Audio! / vid 2 quiet? smth else? feeling ur headset can du better? get best EQ [phonk preset LULW](https://i.imgur.com/S6eogMB.png "u gay") for > [chrome](https://chrome.google.com/webstore/detail/ears-bass-boost-eq-any-au/nfdfiepdkbnoanddpianalelglmfooik "u gay")
-
-+ ### Audio Equalizer de / EQ  [fox](https://addons.mozilla.org/ro/firefox/addon/audio-equalizer-wext/ "u gay")
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-+ ### Stylus / re-desing any web page - [link](https://add0n.com/stylus.html "u gay")
+<h2 align="center">EQ</h2>
 
 
-                                                        steam
++ ### [Ears: Bass Boost, EQ Any Audio! / vid 2 quiet? smth else? feeling ur headset can du better? get best EQ for chrome][eqc]  / [phonk preset LULW](https://i.imgur.com/S6eogMB.png "u gay")
 
-+ ### CSGO Trader Extension - [link](https://csgotrader.app "u gay")
-+ ### CSGOFloat - [link](https://csgofloat.com/ "u gay")
-+ ### SIH - [chrome](https://chrome.google.com/webstore/detail/steam-inventory-helper/cmeakgjggjdlcpncigglobpjbkabhmjl "u gay")
++ ### [Audio Equalizer de / EQ fox][eqf]
 
 
-                                                         soc
+<h2 align="center">steam</h2>
 
-+ ### VkOpt / dw everything - [link](https://vkopt.net/download/ "u gay")
++ ### [CSGO Trader Extension][cst]
++ ### [CSGOFloat][csf]
++ ### [SIH / chrome only][sih]
+
+
+<h2 align="center">soc</h2>
+
++ ### [VkOpt / `dw everything`][vko]
 
 or
 
-+ ### vk next / [link](https://vknext.net/ "u gay")
++ ### [vk next][vknext]
 
 
-                                               RU / UA - access 4 whole world
+<h2 align="center">RU / UA - access 4 whole world</h2>                
 
-+ ### RU - [link](https://antizapret.prostovpn.org/ "u gay")
++ ### [RU][ru]
 
-+ ### RU 2  - [link](https://github.com/anticensority/runet-censorship-bypass/ "u gay")
++ ### [RU 2 ][ru2]
 
-+ ### UA - [link](https://zaborona.help "u gay") 
++ ### [UA][ua]
 
-+ ### friGate *proxy universal addon* - [link](https://fri-gate.org/ "u gay") chrome / opera 
++ ### [friGate *proxy universal addon*  chrome / opera ][frig]
+[frig]:https://fri-gate.org/ "u gay"
++ ### FoxyProxy for fox -  [standart / specific proxy for any URLs][foxyps]  / [basic 1click on/off][foxypb]
 
-+ ### FoxyProxy for fox -  [standart](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/ "u gay") [specific proxy for any URLs] / [basic](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-basic/ "u gay") [1click on/off] 
-
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　[find/buy some proxy or get it [here](https://lolz.guru/forums/566/ "u gay")]
-
-                                                         TWITCH
-
-+ ### FrankerFaceZ - [link](https://www.frankerfacez.com/ "u gay")
-
-+ ### 7tv - [link](https://7tv.app/ "u gay")
+　　　　　　　　　　　　　　　　　　　[find/buy some proxy or get it [here](https://lolz.guru/forums/566/ "u gay")]
 
 
-                                                     find song 
+<h2 align="center">TWITCH</h2>
 
-+ ### Song Identifier - [fox](https://addons.mozilla.org/en-US/firefox/addon/song-identifier/ "u gay")
++ ### [FrankerFaceZ][ffz]
 
-+ ### Shazam - [chrome](https://chrome.google.com/webstore/detail/shazam/mmioliijnhnoblpgimnlajmefafdfilb "u gay")
++ ### [7tv][7tv]
 
 
-                                                      privacity
-+ ### GMAIL  Unlimited Email Tracker by [Snov.io](http://Snov.io) / shows if person opened ur email - [chrome](https://chrome.google.com/webstore/detail/unlimited-email-tracker-b/gojogohjgpelafgaeejgelmplndppifh "u gay")
+<h2 align="center">find song</h2>  
 
-+ ### GMAIL  PixelBlock / PixelBlock anti ^ that blocks people from tracking when you open their emails - [chrome](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem "u gay")
++ ### [Song Identifier fox][sngfox]
 
-+ ### Tampermonkey / some times other extension req library - [link](https://www.tampermonkey.net/ "u gay")
++ ### [Shazam chrome][sngc]
 
-+ ###                   　　　　　             *there is no https everywhere & NoScript or cookie cleaner cuz every1 know about it*  
+
+
+<h2 align="center">privacity</h2>    
+
++ ### [GMAIL  Unlimited Email Tracker by Snov.io / `shows if person opened ur email`][gms]
+
++ ### [GMAIL  PixelBlock / `PixelBlock anti ^ that blocks people from tracking when you open emails`][gmx]
+
+
+　　　　　　　　　　　　　*there is no https everywhere & NoScript or cookie cleaner cuz every1 know about it*  
 
 　　　　　　　　　　　　　　　　　　　　　　　　 *i hope so*
 
 
-                                                       perfomance
+<h2 align="center">perfomance</h2>
 
-+ ### Reload All Tabs / [Allows you reload all tabs via toolbar button. Very lite addon with minimal CPU and RAM usage.] - [link](https://mybrowseraddon.com/reload-all-tabs.html "u gay") 
++ ### [Reload All Tabs `Allows you reload all tabs via toolbar button. Very lite addon with minimal CPU and RAM usage`][993]
 
-+ ### OneTab / struggling w smth like [this](https://i.imgur.com/y21sNkH.png "u gay" )? - [link](https://www.one-tab.com/ "u gay")
++ ### [OneTab][one1] [`struggling w smth like`][onet]
 
-                                                        etc
+<h2 align="center">etc</h2>
 
-+ ### Absolute Enable Right Click & Copy / for lazzy doggo like me, dnt fuck with source code just copy what u want w/o restruction - [chrome](https://chrome.google.com/webstore/detail/absolute-enable-right-cli/jdocbkpgdakpekjlhemmfcncgdjeiika "u gay") [fox](https://addons.mozilla.org/ru/firefox/addon/absolute-enable-right-click/ "u gay")
++ ### [Absolute Enable Right Click & Copy `for lazzy doggo like me, dnt fuck with source code just copy what u want w/o restruction`][111]  [chrome][absc] / [fox][absf]
 
-+ ### Blackbox - Select. Copy. Paste & Search / saw smth cool in video or gif / pic etc? lets copy it [preview](https://www.youtube.com/embed/ivJMSXzCvM4 "u gay")  - [chrome](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon "u gay")
++ ### [Blackbox - Select. Copy. Paste & Search][boxc] [`saw smth cool in video or gif / pic etc? lets copy it`][box]
 
-+ ### Cute Save Button / no more reg 4 download lul - [chrome](https://chrome.google.com/webstore/detail/cute-save-button/foblnmhpgiilabdcbnfgoheplajhompg "u gay") / [fox](https://addons.mozilla.org/en-US/firefox/addon/cute-save-button/ "u gay")
++ ### [Cute Save Button `no more reg 4 download lul` ][cute] [chrome][cutec] / [fox][cutex]
 
-+ ### sessionbox / multi accounting everywhere [ex.](https://i.imgur.com/adgSs8K.png "u gay") - [link](https://sessionbox.io "u gay")
++ ### [sessionbox `multi accounting everywhere`][sess]  [ex.](https://i.imgur.com/adgSs8K.png "u gay") 
 
-+ ### ClearURLs / fukk off with ur ref links - [link](https://docs.clearurls.xyz "u gay")
++ ### [ClearURLs  `fukk off with ur ref links`][clear]
 
-+  ### ***pixiv*** downloader - [fox](https://addons.mozilla.org/en-US/firefox/addon/px-downloader/ "u gay")
++ ### [***pixiv*** downloader fox `save images from pixiv`][pixiv]
+
++ ### [Tampermonkey / `some times other extension req library`][monkey]
+
++ ### [Stylus / `re-desing any web page`][sty]
+
+
+
+[sty]:https://add0n.com/stylus.html "u gay"
+[foxypb]:https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-basic/ "u gay"
+[foxyps]:https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/ "u gay"
+[gms]:https://chrome.google.com/webstore/detail/unlimited-email-tracker-b/gojogohjgpelafgaeejgelmplndppifh "u gay"
+[gmx]:https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem "u gay"
+[ua]:https://zaborona.help "u gay"
+[cst]:https://csgotrader.app "u gay"
+[csf]:https://csgofloat.com/ "u gay"
+
+[sih]:https://chrome.google.com/webstore/detail/steam-inventory-helper/cmeakgjggjdlcpncigglobpjbkabhmjl "u gay"
+[eqc]:https://chrome.google.com/webstore/detail/ears-bass-boost-eq-any-au/nfdfiepdkbnoanddpianalelglmfooik "u gay"
+
+[eqf]:https://addons.mozilla.org/ro/firefox/addon/audio-equalizer-wext/ "u gay"
+
+[silince]:https://github.com/vantezzen/skip-silence "u gay"
+[sb]:https://sponsor.ajay.app/ "u gay"
+[capt]:https://github.com/dessant/buster "u gay"
+[uB]:https://ublock.org/ "u gay"
+[sngc]:https://chrome.google.com/webstore/detail/shazam/mmioliijnhnoblpgimnlajmefafdfilb "u gay"
+[sngfox]:https://addons.mozilla.org/en-US/firefox/addon/song-identifier/ "u gay"
+[7tv]:https://7tv.app/ "u gay"
+[ffz]:https://www.frankerfacez.com/ "u gay"
+[ru2]:https://github.com/anticensority/runet-censorship-bypass/ "u gay"
+[993]:https://mybrowseraddon.com/reload-all-tabs.html "u gay"
+[ru]:https://antizapret.prostovpn.org/ "u gay"
+[onet]:https://i.imgur.com/y21sNkH.png "u gay"
+
+[one1]:https://www.one-tab.com/ "u gay"
+[vknext]:https://vknext.net/ "u gay"
+[dis]:https://github.com/Anarios/return-youtube-dislike "u gay"
+
+[111]:https://www.youtube.com/embed/OP66Z1XP9xM "u gay"
+
+[absc]:https://chrome.google.com/webstore/detail/absolute-enable-right-cli/jdocbkpgdakpekjlhemmfcncgdjeiika "u gay"
+
+[vko]:https://vkopt.net/download/ "u gay"
+
+[absf]:https://addons.mozilla.org/ru/firefox/addon/absolute-enable-right-click/ "u gay"
+
+[h264]:https://github.com/erkserkserks/h264ify "u gay"
+
+[box]:https://www.youtube.com/embed/ivJMSXzCvM4 "u gay"
+[boxc]:https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon "u gay"
+[pixiv]:https://addons.mozilla.org/en-US/firefox/addon/px-downloader/ "u gay"
+[clear]:https://docs.clearurls.xyz "u gay"
+[monkey]:https://www.tampermonkey.net/ "u gay"
+[sess]:https://sessionbox.io "u gay"
+[cute]:https://i.imgur.com/vskxghv.png "u gay"
+[cutec]:https://chrome.google.com/webstore/detail/cute-save-button/foblnmhpgiilabdcbnfgoheplajhompg "u gay"
+[cutex]:https://addons.mozilla.org/en-US/firefox/addon/cute-save-button/ "u gay"
+[yte]:https://www.mrfdev.com/enhancer-for-youtube "u gay"
+
+<h3 align="center">JUMP</h3>
+
+　　　　　　　　　　　　　　　　　　　　　　　　　[:top:](#u_still_gay) 
