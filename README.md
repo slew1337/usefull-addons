@@ -2,7 +2,7 @@
                                      FIRST OF ALL u cant even live without this one
 
 + ### uBlock - [link](https://ublock.org/ "u gay")
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 + ### Buster: Captcha Solver for Humans / resolve re-captcha - [link](https://github.com/dessant/buster "u gay")
 
