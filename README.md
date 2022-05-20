@@ -30,7 +30,7 @@
 
 + ### Audio Equalizer de / EQ  [fox](https://addons.mozilla.org/ro/firefox/addon/audio-equalizer-wext/ "u gay")
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 + ### Stylus / re-desing any web page - [link](https://add0n.com/stylus.html "u gay")
 
