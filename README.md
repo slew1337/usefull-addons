@@ -24,7 +24,7 @@
 + ### VidiQ
 
 
-                                                          EQ
+                                                       EQ
 
 + ### Ears: Bass Boost, EQ Any Audio! / vid 2 quiet? smth else? feeling ur headset can du better? get best EQ [phonk preset LULW](https://i.imgur.com/S6eogMB.png "u gay") for > [chrome](https://chrome.google.com/webstore/detail/ears-bass-boost-eq-any-au/nfdfiepdkbnoanddpianalelglmfooik "u gay")
 
@@ -79,7 +79,7 @@ or
 + ### Shazam - [chrome](https://chrome.google.com/webstore/detail/shazam/mmioliijnhnoblpgimnlajmefafdfilb "u gay")
 
 
-                                                        privacity
+                                                      privacity
 + ### GMAIL  Unlimited Email Tracker by [Snov.io](http://Snov.io) / shows if person opened ur email - [chrome](https://chrome.google.com/webstore/detail/unlimited-email-tracker-b/gojogohjgpelafgaeejgelmplndppifh "u gay")
 
 + ### GMAIL  PixelBlock / PixelBlock anti ^ that blocks people from tracking when you open their emails - [chrome](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem "u gay")
@@ -91,13 +91,13 @@ or
 　　　　　　　　　　　　　　　　　　　　　　　　 *i hope so*
 
 
-                                                         perfomance
+                                                       perfomance
 
 + ### Reload All Tabs / [Allows you reload all tabs via toolbar button. Very lite addon with minimal CPU and RAM usage.] - [link](https://mybrowseraddon.com/reload-all-tabs.html "u gay") 
 
 + ### OneTab / struggling w smth like [this](https://i.imgur.com/y21sNkH.png "u gay" )? - [link](https://www.one-tab.com/ "u gay")
 
-                                                          etc
+                                                        etc
 
 + ### Absolute Enable Right Click & Copy / for lazzy doggo like me, dnt fuck with source code just copy what u want w/o restruction - [chrome](https://chrome.google.com/webstore/detail/absolute-enable-right-cli/jdocbkpgdakpekjlhemmfcncgdjeiika "u gay") [fox](https://addons.mozilla.org/ru/firefox/addon/absolute-enable-right-click/ "u gay")
 
