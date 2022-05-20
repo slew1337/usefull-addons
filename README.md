@@ -1,5 +1,5 @@
-
 <a id="u_still_gay"></a>
+
 <h1 align="center">WELCOME TO THE CLUB BUDDY</h1>
 
                                      _                     _   _____   _____   _____ 
@@ -182,3 +182,15 @@ or
 <h3 align="center">JUMP</h3>
 
 　　　　　　　　　　　　　　　　　　　　　　　　　[:top:](#u_still_gay) 
+                         
+                         
+                         
+                         
+<p align="center"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fslew1337%2Fusefull-addons&count_bg=%23C95DB8&title_bg=%236D2C64&icon=&icon_color=%23E7E7E7&title=gay+counter&edge_flat=false"/> </p>
+
+<h3 align="center">𝖉𝖒 𝖒𝖊 𝖎𝖋 𝖘𝖔</h3>
+<p align="center">
+<a href="https://www.instagram.com/iknowhowyoursistertaste/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iknowhowyoursistertaste/" height="30" width="20" /></a>
+<a href="https://www.t.me/slew1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/def7dc536a945ed253c2985601609348e0c6b2e5/src/images/icons/Social/telegram.svg" alt="t.me/slew1337" height="30" width="20" /></a>   
+<a href="https://www.youtube.com/channel/UCTG0gkHbEugcuynuAmWZ8MA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uctg0gkhbeugcuynuamwz8ma" height="30" width="20" /></a>
+</p>
