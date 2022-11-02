@@ -109,6 +109,8 @@ or
 
 <h2 align="center">etc</h2>
 
++ ### [HLS Downloader`download any vid`][hls]
+
 + ### [Absolute Enable Right Click & Copy `for lazzy doggo like me, dnt fuck with source code just copy what u want w/o restruction`][111]  [chrome][absc] / [fox][absf]
 
 + ### [Blackbox - Select. Copy. Paste & Search][boxc] [`saw smth cool in video or gif / pic etc? lets copy it`][box]
@@ -126,7 +128,7 @@ or
 + ### [Stylus / `re-desing any web page`][sty]
 
 
-
+[hls]:https://mybrowseraddon.com/hls-downloader.html "u gay"
 [sty]:https://add0n.com/stylus.html "u gay"
 [foxypb]:https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-basic/ "u gay"
 [foxyps]:https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/ "u gay"
