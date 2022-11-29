@@ -164,7 +164,7 @@ or
 
 [absc]:https://chrome.google.com/webstore/detail/absolute-enable-right-cli/jdocbkpgdakpekjlhemmfcncgdjeiika "u gay"
 
-[vko]:https://vkopt.net/download/ "u gay"
+[vko]:https://github.com/xiadosw/VKOpt-Reloaded "u gay"
 
 [absf]:https://addons.mozilla.org/ru/firefox/addon/absolute-enable-right-click/ "u gay"
 
